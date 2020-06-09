@@ -319,7 +319,7 @@ header .container .col-md-7 button{
      background: rgba(0, 0, 0, 0.8);
      overflow-x: hidden;
      padding: 10vmin 10vmin;
-     margin-top: 10vmin;
+     /* margin-top: 10vmin; */
  }
 
  footer p>span{
@@ -354,6 +354,7 @@ header .container .col-md-7 button{
 .section-4 .col-md-6{
     padding-top: 10vmin;
     padding-right: 10vmin;
+    margin-bottom: 40px;
 }
 
 /* Booster */
